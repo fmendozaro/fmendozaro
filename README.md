@@ -11,4 +11,6 @@ I currently work for [Codeup](https://codeup.com) instructing students in web de
 - 💬 Ask me about music, movies, and videogames 
 - 📫 How to reach me: by email
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: I met Nelly Furtado,
+- ⚡ Fun fact: I met Nelly Furtado.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
