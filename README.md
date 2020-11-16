@@ -13,4 +13,4 @@ I currently work for [Codeup](https://codeup.com) instructing students in web de
 - 😄 Pronouns: he/his/him
 - ⚡ Fun fact: I met Nelly Furtado.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Fer's github stats](https://github-readme-stats.vercel.app/api?username=fmendozaro)](https://github.com/anuraghazra/github-readme-stats)
