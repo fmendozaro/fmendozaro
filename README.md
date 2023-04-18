@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello there, I'm Fernando!
+Hello there, I'm Fernando! My dog Rosie is currently learning the [Fetch Web API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
 I currently work for [Salesforce](https://salesforce.com) developing software.
 
