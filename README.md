@@ -11,4 +11,4 @@ I currently work for [Salesforce](https://salesforce.com) developing software.
 - 💬 Ask me about music, movies, and videogames 
 - 📫 How to reach me: by email
 - 😄 Pronouns: he/his/him
-- ⚡ Fun fact: I met Nelly Furtado and 87% of my body composition is lime juice.
+- ⚡ Fun fact: I've met Nelly Furtado 4+ times and 87% of my body composition is lime juice.
