@@ -6,9 +6,9 @@ I currently work for [Salesforce](https://salesforce.com) developing software.
 
 - 🔭 I’m currently working on my [Only Flans](https://onlyflans.link) mock website
 - 🌱 I’m currently learning more about building Spring REST API
-- 👯 I’m looking to collaborate on any open source projects realted to arts
+- 👯 I’m looking to collaborate on any open source projects related to arts
 - 🤔 I’m looking for help with you with code
 - 💬 Ask me about music, movies, and videogames 
 - 📫 How to reach me: by email
-- 😄 Pronouns: he/his/him
-- ⚡ Fun fact: I've met Nelly Furtado 4+ times and 87% of my body composition is lime juice.
+- 😄 Pronouns: he/his/him/Padam
+- ⚡ Fun fact: I've met most of my heroes like Nelly Furtado multiple times and Kylie Minogue once and 87% of my body composition is lime juice.
