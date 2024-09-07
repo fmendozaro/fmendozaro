@@ -4,7 +4,7 @@ Hello there, I'm Fernando! My dog Rosie is currently learning the [Fetch Web API
 
 I currently work for [Salesforce](https://salesforce.com) developing software.
 
-- 🔭 I’m currently working on my [Only Flans](https://onlyflans.link) mock website
+- 🔭 I’m working on my cousin's wedding website, learning Vue.js 3 and Google Firebase deployment tools
 - 🌱 I’m currently learning more about building Spring REST API
 - 👯 I’m looking to collaborate on any open source projects related to arts
 - 🤔 I’m looking for help with you with code
