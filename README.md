@@ -2,7 +2,9 @@
 
 Hello there, I'm Fernando! My dog Rosie is currently learning the [Fetch Web API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 
-I currently work for [Salesforce](https://salesforce.com) developing software.
+I'm available for hire, US H1B visa Sponsorship is required.
+
+I worked for [Salesforce](https://salesforce.com) developing software products within their core platform until June 2024.
 
 - 🔭 I’m working on my cousin's wedding website, learning Vue.js 3 and Google Firebase deployment tools
 - 🌱 I’m currently learning more about building Spring REST API
